@@ -1,0 +1,7 @@
+[   {"followers" : "100" , "coin" : 200 },
+    {"followers" : "200" , "coin" : 400 },
+    {"followers" : "300" , "coin" : 600 } ,
+    {"followers" : "400" , "coin" : 800 },
+    {"followers" : "500" , "coin" : 1000 },
+    {"followers" : "1000" , "coin" : 2000 },
+    {"followers" : "5000" , "coin" : 10000 }]

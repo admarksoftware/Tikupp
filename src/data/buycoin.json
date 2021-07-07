@@ -1,0 +1,11 @@
+[   
+    {"first":"2,99" ,"price" : "1,99" , "coin" : 50  ,"sale" : 33,"populer" : false , "id":1},
+    {"first":"6,99" ,"price" : "4,99" , "coin" : 150  ,"sale" : 38,"populer" : false , "id":2},
+    {"first" : "12,99" , "price" : "6,99" , "coin" : 250 ,"sale" : 40 ,"populer" : true , "id":3},
+    {"first":"19,99" ,"price" : "9,99" , "coin" : 350  ,"sale" : 50,"populer" : false , "id":4},
+    {"first":"49,99" ,"price" : "19,99" , "coin" : 750  ,"sale" : 60 ,"populer" : false, "id":5} ,
+    {"first":"165,99" ,"price" : "49,99" , "coin" : 2000 ,"sale" : 70  ,"populer" : false, "id":6},
+    {"first":"399,99" ,"price" : "79,99" , "coin" : 4000  ,"sale" : 80,"populer" : false , "id":7}
+  
+
+ ]
